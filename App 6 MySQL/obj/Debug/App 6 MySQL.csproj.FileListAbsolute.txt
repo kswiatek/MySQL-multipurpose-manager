@@ -1,0 +1,26 @@
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\bin\Debug\App 6 MySQL.exe.config
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\bin\Debug\App 6 MySQL.exe
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\bin\Debug\App 6 MySQL.pdb
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.csprojResolveAssemblyReference.cache
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\obj\Debug\App_6_MySQL.Form1.resources
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\obj\Debug\App_6_MySQL.Properties.Resources.resources
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.csproj.GenerateResource.Cache
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.exe
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.pdb
+c:\users\rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\obj\Debug\App_6_MySQL.Form2.resources
+C:\Users\Rambo3\documents\visual studio 2015\Projects\App 6 MySQL\App 6 MySQL\obj\Debug\App_6_MySQL.Form3.resources
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\bin\Debug\App 6 MySQL.exe.config
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\bin\Debug\App 6 MySQL.exe
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\bin\Debug\App 6 MySQL.pdb
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\bin\Debug\MySql.Data.dll
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.csprojAssemblyReference.cache
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App_6_MySQL.Form1.resources
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App_6_MySQL.Form2.resources
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App_6_MySQL.Form3.resources
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App_6_MySQL.Properties.Resources.resources
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.csproj.GenerateResource.cache
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.csproj.CoreCompileInputs.cache
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.csproj.CopyComplete
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.exe
+D:\BACKUP DYSKÓW HDD Z PC\dorobek\C#\App 6 MySQL\App 6 MySQL\obj\Debug\App 6 MySQL.pdb
